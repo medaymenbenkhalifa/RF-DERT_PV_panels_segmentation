@@ -1,0 +1,1 @@
+# RF-DERT_PV_panels_segmentation
